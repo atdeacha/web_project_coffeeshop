@@ -9,28 +9,24 @@
 
 .inter-regular {
   font-family: "Inter", serif;
-  font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
 }
 
 .inter-medium {
   font-family: "Inter", serif;
-  font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
 }
 
 .inter-bold {
   font-family: "Inter", serif;
-  font-optical-sizing: auto;
   font-weight: 700;
   font-style: normal;
 }
 
 .noto-serif-roman {
   font-family: "Noto Serif", serif;
-  font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
   font-variation-settings: "wdth" 100;
@@ -38,7 +34,6 @@
 
 .noto-serif-italic {
   font-family: "Noto Serif", serif;
-  font-optical-sizing: auto;
   font-weight: 400;
   font-style: italic;
   font-variation-settings: "wdth" 100;
