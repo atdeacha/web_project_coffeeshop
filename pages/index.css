@@ -56,12 +56,6 @@
   font-weight: bold;
 }
 
-.header__content {
-  margin: 0 auto;
-  display: flex;
-  justify-content: space-between;
-}
-
 .header__title {
   max-width: 709px;
   position: absolute;
